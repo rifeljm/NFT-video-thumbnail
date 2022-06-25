@@ -1,0 +1,15 @@
+{
+  "name": "nft-video-thumbnail",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Matej Rifelj",
+  "dependencies": {
+    "express": "4.18.1",
+    "ffmpeg-static": "^5.0.0",
+    "fluent-ffmpeg": "2.1.2"
+  }
+}
